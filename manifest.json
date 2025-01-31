@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Image Name Copy",
   "version": "1.0",
-  "description": "Description here",
+  "description": "Easily copy image filenames through a right-click context menu. Automatically saves names to clipboard with confirmation notification.",
   "permissions": [
     "contextMenus",
     "scripting",
